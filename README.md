@@ -13,6 +13,7 @@
 </ul>
 
 **Mlflow Code - UI**
-<ul><li>mlflowexp1.ipynb</li></ul>
+<ul><li>mlflowexp1.ipynb</li>
 <li>Experimented logging the model into artifacts using implicit</li>
+</ul>
 
