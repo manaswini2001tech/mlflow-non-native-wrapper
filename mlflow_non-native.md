@@ -69,4 +69,4 @@
    Implicit/submod2/init.py and so on till n submodules.
    Each containing from submod1 import
 
-   - Creates Log, Save, Load Model for Mlflow API in the mlflow/implicit like that for each library in requirements.txt
+   - Creates Log, Save, Load Model for Mlflow API in the mlflow/implicit like that for each library present in requirements.txt
