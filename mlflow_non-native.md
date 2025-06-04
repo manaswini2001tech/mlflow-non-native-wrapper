@@ -2,11 +2,11 @@
 **Env Requirements**
 <li>Python=3.9</li>
 - Works well with this version, without installation subprocess errors.
-<li>conda create -n env_mlflow_custom python=3.9</li>
+<li> `conda create -n env_mlflow_custom python=3.9`</li>
 
 ## Online Server
 
-1. **Conda activate env_mlflow_custom**
+1. **`Conda activate env_mlflow_custom`**
 2. `mkdir mlflow_custom_multilib`
 3. `cd mlflow_custom_multilib`
 
