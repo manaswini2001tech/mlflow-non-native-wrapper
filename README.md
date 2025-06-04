@@ -1,13 +1,16 @@
 # Mlflow Non-Native Python library Wrapper
 **Files for Setup**
-mlflow_custom.py
-move_setup_and_wheels.py
-requirements.txt
-
+<ol>
+<li>mlflow_custom.py</li>
+<li>move_setup_and_wheels.py</li>
+<li>requirements.txt</li>
+</ol>
 **Documentation: Steps to Follow**
-mlflow_non-native.docx
-mlflow_non-native.md
-
+<ol>
+<li>mlflow_non-native.docx</li>
+<li>mlflow_non-native.md</li>
+</ol>
 **Mlflow Code - UI**
-<li>Experimented logging the model into artifacts using implicit</li>
 mlflowexp1.ipynb
+<li>Experimented logging the model into artifacts using implicit</li>
+
