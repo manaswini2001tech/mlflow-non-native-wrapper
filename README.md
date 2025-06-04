@@ -8,7 +8,6 @@
 
 **Documentation: Steps to Follow**
 <ul>
-<li>mlflow_non-native.docx</li>
 <li>mlflow_non-native.md</li>
 </ul>
 
