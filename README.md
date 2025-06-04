@@ -7,12 +7,12 @@
 </ol>
 
 **Documentation: Steps to Follow**
-<ol>
+<ul>
 <li>mlflow_non-native.docx</li>
 <li>mlflow_non-native.md</li>
-</ol>
+</ul>
 
 **Mlflow Code - UI**
-<ol><li>mlflowexp1.ipynb</li></ol>
+<ul><li>mlflowexp1.ipynb</li></ul>
 <li>Experimented logging the model into artifacts using implicit</li>
 
